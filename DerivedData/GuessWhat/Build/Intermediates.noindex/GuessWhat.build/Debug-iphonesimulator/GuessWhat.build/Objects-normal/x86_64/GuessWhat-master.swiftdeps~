@@ -1,8 +1,0 @@
-version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
-options: "e40832b75bd422afa9594552bffc95e5"
-build_time: [1532425572, 326385000]
-inputs:
-  "/Users/admin/Desktop/GuessWhat/GuessWhat/ViewController.swift": [1532425523, 0]
-  "/Users/admin/Desktop/GuessWhat/GuessWhat/Questions/Question.swift": [1532421918, 0]
-  "/Users/admin/Desktop/GuessWhat/GuessWhat/AppDelegate.swift": [1532418517, 0]
-  "/Users/admin/Desktop/GuessWhat/GuessWhat/Questions/QuestionContainer.swift": [1532422655, 0]
