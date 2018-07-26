@@ -34,7 +34,7 @@ class ViewController: UIViewController {
     var alertTitle : String = "";
     var score : Int = 0;
     
-
+    
     func delayWithSeconds(_ seconds: Double, completion: @escaping () -> ()) {
         DispatchQueue.main.asyncAfter(deadline: .now() + seconds) {
             completion()
@@ -45,7 +45,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         questionLabel.lineBreakMode = .byWordWrapping
-        questionLabel.numberOfLines = 3
+        questionLabel.numberOfLines = 5
         updateUI()
     }
     
